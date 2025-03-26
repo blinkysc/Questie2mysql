@@ -154,10 +154,6 @@ WotLK quest data has a specific structure with fields including:
 
 The script handles these specialized nested formats to extract the correct IDs.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - The Questie addon team for their work on documenting WoW quest data
